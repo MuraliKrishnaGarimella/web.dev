@@ -6,7 +6,7 @@ date: 2020-07-22
 description: |
   Learn how to setup Lighthouse CI and integrate it into developer workflows.
 hero: hero.png
-alt: "Lighthouse CI" displayed over a screenshot of Lighthouse CI server
+alt: Lighthouse CI displayed over a screenshot of Lighthouse CI server
 tags:
   - blog # blog is a required tag for the article to show up in the blog.
   - performance
